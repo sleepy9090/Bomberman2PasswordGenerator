@@ -2,6 +2,7 @@
 Password generator for the NES game Bomberman 2 in C++
 
 Run the executable from console and follow the prompts.
+
 Values are: 
 
 Bomb blast length,
