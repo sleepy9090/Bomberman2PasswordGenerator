@@ -4,9 +4,9 @@ Password generator for the NES game Bomberman 2 in C++
 Run the executable from console and follow the prompts.
 Values are: 
 
-Bomb blast length
-Number of bombs
-Level and sub Level
+Bomb blast length,
+Number of bombs,
+Level and sub Level,
 
 ```
 Bomberman 2 password generator v 1.0
