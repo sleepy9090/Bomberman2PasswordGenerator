@@ -5,9 +5,11 @@ Run the executable from console and follow the prompts.
 
 Values are: 
 
-Bomb blast length,
-Number of bombs,
-Level and sub Level,
+Bomb blast length
+
+Number of bombs
+
+Level and sub Level
 
 ```
 Bomberman 2 password generator v 1.0
